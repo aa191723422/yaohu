@@ -1,0 +1,4 @@
+interface:
+  display_name: "KCAP Direct3D 游戏汉化"
+  short_description: "提取、翻译、修复并打包老式 KCAP Direct3D 游戏"
+  default_prompt: "Use $kcap-direct3d-game-localizer to analyze and localize this KCAP-based Direct3D game safely."
